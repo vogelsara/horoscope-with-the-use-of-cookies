@@ -7,6 +7,15 @@
     <title>Horoscope</title>
 </head>
 <body>
-    
+<body>
+    <h1>Horoscope</h1>
+    <form>
+        <input id="firstnameInput" type="text" name="firstname" value="" /><br>
+        <input id="lastnameInput" type="text" name="lastname" value="" /><br>
+        <input id="birthdayInput" type="date" name="birthday" value="" /><br>
+        <input id="personalNumberInput" type="number" name="personalNumber" value="" /><br>
+    </form>
+</body>
+
 </body>
 </html>
